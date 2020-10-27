@@ -1,0 +1,79 @@
+#b2b {
+  height: 100vh;
+  width: 100vw;
+  background-color: black;
+  color: #ffffff;
+  float: left;
+  overflow: hidden;
+  position: relative;
+}
+#b2bimg {
+  background-image: url("../img/new_york_p04380wh_4.png");
+  background-size: 50vw 100vh;
+  width: 50vw;
+  height: 100vh;
+  transition-duration: 3s;
+  font-size: 6.3vh;
+  position: absolute;
+  float: left;
+}
+#content {
+  margin-top: 25vh;
+  font-size: 4vh;
+  color: #ffffff;
+}
+#content:hover::before {
+  content: "Platforma B2B";
+}
+#b2bimg:hover {
+  filter: blur(3px);
+  transform: scale(1.1);
+}
+#b2btext {
+  left: 50vw;
+  margin-left: 10vw;
+  margin-right: 10vw;
+  position: absolute;
+  overflow: visible;
+  width: 50vw;
+  color: #ffffff;
+}
+#text1 {
+  margin-top: 20vh;
+  font-size: 3.6vh;
+}
+#text2 {
+  font-size: 6.4vh;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+#text3 {
+  font-size: 2.2vh;
+  margin-right: 20vw;
+}
+#b2b-button {
+  text-align: left;
+  font: normal normal bold 16px/20px Roboto;
+  letter-spacing: 0.8px;
+  color: #ffffff;
+  text-transform: uppercase;
+  margin-top: 16vh;
+  padding: 18 48 21 45;
+
+  position: relative;
+
+  display: block;
+  text-align: center;
+  border-radius: 30px;
+  padding: 6px;
+  box-sizing: border-box;
+  text-decoration: none;
+  box-shadow: 0 5px 8px rgba(250, 249, 249, 0.3);
+  background: linear-gradient(0deg, rgb(17, 17, 17), rgb(82, 82, 82));
+  border-color: darkgrey;
+  transition: 0.5s;
+}
+#b2b-button:hover {
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+  text-decoration: none;
+}

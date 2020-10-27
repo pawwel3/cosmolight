@@ -1,0 +1,25 @@
+.sm {
+  margin-top: 3.9vh;
+  margin-left: 80vw;
+  display: flex;
+}
+.icon {
+  margin-top: -12px;
+  margin-left: 0.4vw;
+  padding-top: 6px;
+  padding-left: 6px;
+  padding-bottom: 6px;
+  padding-right: 4px;
+  /*border: 1px solid var(--unnamed-color-e8e8e8);*/
+  border: 1px solid #e8e8e8;
+  border-radius: 45%;
+  opacity: 1;
+  box-shadow: 0 10px 15px rgba(0, 0, 0, 0.3);
+  background: linear-gradient(0deg, #ddd, #fff);
+  transition: 0.5s;
+  transform: translate(0%, 20%);
+}
+.icon:hover {
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+  text-decoration: none;
+}

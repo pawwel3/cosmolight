@@ -1,0 +1,36 @@
+.contener {
+  position: absolute;
+  top: 5vh;
+  left: 95vw;
+  transform: translate(-50%, -50%);
+}
+.toggle-btn {
+  width: 40px;
+  height: 20px;
+  background-color: #0000003b;
+  border-radius: 15px;
+  padding: 3px;
+}
+.pl {
+  width: 20px;
+  height: 20px;
+  background-color: #ffffff;
+  border-radius: 50%;
+  transition: all 1s ease-in-out;
+  text-transform: uppercase;
+}
+.en {
+  width: 20px;
+  height: 20px;
+  background-color: #ffffff;
+  border-radius: 50%;
+  margin-left: 20px;
+  transition: all 1s ease-in-out;
+  text-transform: uppercase;
+}
+.pl-en {
+  top: 50%;
+  left: 50%;
+  transform: translate(13%, 11%);
+  font-weight: bold;
+}

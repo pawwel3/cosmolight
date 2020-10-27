@@ -1,0 +1,60 @@
+.navbar {
+  margin-top: -1px;
+  margin-left: -1px;
+  width: 100vw;
+  height: 10vh;
+  border: 1px solid var(--unnamed-color-e8e8e8);
+  background: #ffffff 0% 0% no-repeat padding-box;
+  border: 1px solid #e8e8e8;
+  opacity: 1;
+  position: fixed;
+}
+.navbar-brand {
+  position: sticky;
+  margin-top: 3.6vh;
+  margin-left: 1vw;
+  width: 10vw;
+  height: 3.2vh;
+  font-size: 3.6vh;
+  font-family: Roboto;
+  /* background: var(--unnamed-color-ffdb0f) 0% 0% no-repeat padding-box;
+    background: #ffdb0f 0% 0% no-repeat padding-box;*/
+  opacity: 1;
+  float: left;
+}
+#cosmo {
+  color: #f9ee38;
+}
+span {
+  color: #000;
+}
+.navbar-menu {
+  font-size: 1.4vh;
+
+  font-weight: bold;
+  margin-top: 3.9vh;
+  margin-left: 20vw;
+  letter-spacing: 0, 7px;
+  height: 1.8vh;
+  float: left;
+}
+.menu {
+  float: left;
+  margin-right: 1.5vw;
+  list-style-type: none;
+  font-weight: bold;
+}
+.menu a {
+  float: left;
+  color: #474747;
+  transition-duration: 3s;
+  padding-left: 3px;
+  padding-right: 3px;
+}
+.menu a:hover {
+  background-color: black;
+  color: #f9ee38;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border-radius: 15%;
+}
