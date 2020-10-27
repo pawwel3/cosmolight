@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/cosmolight/static/css/main.911c92de.chunk.css",
+    "main.js": "/cosmolight/static/js/main.b2bd3cee.chunk.js",
+    "main.js.map": "/cosmolight/static/js/main.b2bd3cee.chunk.js.map",
+    "runtime-main.js": "/cosmolight/static/js/runtime-main.d2bd6188.js",
+    "runtime-main.js.map": "/cosmolight/static/js/runtime-main.d2bd6188.js.map",
+    "static/js/2.a16d6a24.chunk.js": "/cosmolight/static/js/2.a16d6a24.chunk.js",
+    "static/js/2.a16d6a24.chunk.js.map": "/cosmolight/static/js/2.a16d6a24.chunk.js.map",
+    "index.html": "/cosmolight/index.html",
+    "precache-manifest.69ce4d62c6811274cb99f4c71d4e46eb.js": "/cosmolight/precache-manifest.69ce4d62c6811274cb99f4c71d4e46eb.js",
+    "service-worker.js": "/cosmolight/service-worker.js",
+    "static/css/main.911c92de.chunk.css.map": "/cosmolight/static/css/main.911c92de.chunk.css.map",
+    "static/js/2.a16d6a24.chunk.js.LICENSE.txt": "/cosmolight/static/js/2.a16d6a24.chunk.js.LICENSE.txt",
+    "static/media/Instagram.svg": "/cosmolight/static/media/Instagram.b7c1c488.svg",
+    "static/media/Warstwa_x0020_1.svg": "/cosmolight/static/media/Warstwa_x0020_1.1cfbfd2d.svg",
+    "static/media/Example.css": "/cosmolight/static/media/new_york_p04380wh_4.8a6c9131.png",
+    "static/media/v.svg": "/cosmolight/static/media/v.ab9b4707.svg",
+    "static/media/washington_p05915wh.png": "/cosmolight/static/media/washington_p05915wh.75eb7e10.png",
+    "static/media/yt.svg": "/cosmolight/static/media/yt.395418ed.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d2bd6188.js",
+    "static/js/2.a16d6a24.chunk.js",
+    "static/css/main.911c92de.chunk.css",
+    "static/js/main.b2bd3cee.chunk.js"
+  ]
+}
