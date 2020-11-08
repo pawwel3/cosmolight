@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/cosmolight/static/css/main.911c92de.chunk.css",
-    "main.js": "/cosmolight/static/js/main.b2bd3cee.chunk.js",
-    "main.js.map": "/cosmolight/static/js/main.b2bd3cee.chunk.js.map",
+    "main.js": "/cosmolight/static/js/main.3bbe64e1.chunk.js",
+    "main.js.map": "/cosmolight/static/js/main.3bbe64e1.chunk.js.map",
     "runtime-main.js": "/cosmolight/static/js/runtime-main.d2bd6188.js",
     "runtime-main.js.map": "/cosmolight/static/js/runtime-main.d2bd6188.js.map",
     "static/js/2.a16d6a24.chunk.js": "/cosmolight/static/js/2.a16d6a24.chunk.js",
     "static/js/2.a16d6a24.chunk.js.map": "/cosmolight/static/js/2.a16d6a24.chunk.js.map",
     "index.html": "/cosmolight/index.html",
-    "precache-manifest.69ce4d62c6811274cb99f4c71d4e46eb.js": "/cosmolight/precache-manifest.69ce4d62c6811274cb99f4c71d4e46eb.js",
+    "precache-manifest.0e655ce8edbed0ca218f704b38261399.js": "/cosmolight/precache-manifest.0e655ce8edbed0ca218f704b38261399.js",
     "service-worker.js": "/cosmolight/service-worker.js",
     "static/css/main.911c92de.chunk.css.map": "/cosmolight/static/css/main.911c92de.chunk.css.map",
     "static/js/2.a16d6a24.chunk.js.LICENSE.txt": "/cosmolight/static/js/2.a16d6a24.chunk.js.LICENSE.txt",
@@ -23,6 +23,6 @@
     "static/js/runtime-main.d2bd6188.js",
     "static/js/2.a16d6a24.chunk.js",
     "static/css/main.911c92de.chunk.css",
-    "static/js/main.b2bd3cee.chunk.js"
+    "static/js/main.3bbe64e1.chunk.js"
   ]
 }
