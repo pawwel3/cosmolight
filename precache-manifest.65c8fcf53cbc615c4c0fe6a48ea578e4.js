@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "626bc1fd66fdb44ee486481cec68f14a",
+    "revision": "af004240104567d85f83c58e9d93fcf1",
     "url": "/cosmolight/index.html"
   },
   {
-    "revision": "fa0d1d5b0ba86fe003ff",
+    "revision": "8ff80a4805edcdd61fc8",
     "url": "/cosmolight/static/css/main.911c92de.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cosmolight/static/js/2.a16d6a24.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fa0d1d5b0ba86fe003ff",
-    "url": "/cosmolight/static/js/main.3bbe64e1.chunk.js"
+    "revision": "8ff80a4805edcdd61fc8",
+    "url": "/cosmolight/static/js/main.af1c12e8.chunk.js"
   },
   {
     "revision": "74961ccad5f52ee3c122",

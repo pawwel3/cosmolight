@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/cosmolight/precache-manifest.0e655ce8edbed0ca218f704b38261399.js"
+  "/cosmolight/precache-manifest.65c8fcf53cbc615c4c0fe6a48ea578e4.js"
 );
 
 self.addEventListener('message', (event) => {
